@@ -42,9 +42,9 @@ gridz = 6; //.1
 
 /* [Linear Compartments] */
 // number of X Divisions (set to zero to have solid bin)
-divx = 1;
+divx = 0;
 // number of Y Divisions (set to zero to have solid bin)
-divy = 1;
+divy = 0;
 
 /* [Cylindrical Compartments] */
 // number of cylindrical X Divisions (mutually exclusive to Linear Compartments)
