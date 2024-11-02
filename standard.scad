@@ -152,7 +152,7 @@ BASE_PROFILE_MAX = BASE_PROFILE[3];
 
 // Each unit's base is 41.5mm x 41.5mm
 // Leaving 0.5mm gap with an l_grid of 42
-BASE_SIZE = 41.5;
+BASE_SIZE = l_grid - 0.5;
 
 
 /**
