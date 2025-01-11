@@ -23,7 +23,7 @@ MAGNET_HEIGHT = 2.1;
 
 SCREW_HOLE_RADIUS = 3 / 2;
 MAGNET_HOLE_RADIUS = 6.5 / 2;
-MAGNET_HOLE_DEPTH = MAGNET_HEIGHT + (LAYER_HEIGHT * 2) - 0.1;
+MAGNET_HOLE_DEPTH = MAGNET_HEIGHT + (LAYER_HEIGHT * 2);
 
 // distance of hole from side of bin
 d_hole_from_side=8;
