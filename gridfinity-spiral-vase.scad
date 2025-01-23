@@ -65,6 +65,7 @@ a_tab = 40;
 
 // ===== IMPLEMENTATION ===== //
 
+rotate([0, 0, 180])
 color("tomato")
 if (type != 0) gridfinityBaseVase(); // Generate a single base
 else gridfinityVase(); // Generate the bin
